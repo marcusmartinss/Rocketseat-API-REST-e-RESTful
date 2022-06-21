@@ -1,0 +1,12 @@
+{
+  "name": "Rocketseat-API-REST-e-RESTful",
+  "version": "1.0.0",
+  "description": "Projeto realizado no vídeo",
+  "main": "index.js",
+  "repository": "https://github.com/marcusmartinsxx/Rocketseat-API-REST-e-RESTful.git",
+  "author": "Marcus Martins <vini.mark2002@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
